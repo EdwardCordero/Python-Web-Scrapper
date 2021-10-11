@@ -1,0 +1,1 @@
+receivers = ["edwardcordero98@gmail.com", "corderobrayan@yahoo.com"]
